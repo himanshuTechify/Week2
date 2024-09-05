@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node Node_day5.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
